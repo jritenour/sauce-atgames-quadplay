@@ -1,0 +1,15 @@
+# Place this in ./content/retrofe in the drive you have your OneSaUCE content installed to.
+03000000380700001888000011010000,AtGames USB Control Panel,a:b1,b:b2,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b12,leftshoulder:b3,lefttrigger:b2,rightshoulder:b5,righttrigger:b7,start:b9,x:b0,y:b3,platform:Linux,
+19000000380800001988000011010000,ATG game console,a:b1,b:b3,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b12,leftshoulder:b14,lefttrigger:b13,rightshoulder:b7,righttrigger:b5,start:b9,x:b0,y:b4,platform:Linux,
+03000000380800001889000011010000,HID 0838:8918,a:b1,b:b2,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b12,leftshoulder:b5,lefttrigger:b7,rightshoulder:b13,righttrigger:b14,start:b9,x:b0,y:b3,platform:Linux,
+050000005e0400004000000000030000,Control deck,a:b0,b:b1,back:b24,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b25,leftshoulder:b6,lefttrigger:b7,rightshoulder:b9,righttrigger:b8,start:b11,x:b3,y:b4,platform:Linux,
+03000000632500002605000010010000,ShanWan,a:b0,b:b1,back:b10,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b12,leftshoulder:b6,leftstick:b13,lefttrigger:a5,rightshoulder:b7,righttrigger:a4,start:b11,x:b3,y:b4,platform:Linux,
+19000000192800000120000001000000,AplGamepadP1,a:b1,b:b2,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b12,leftstick:b6,lefttrigger:b5,righttrigger:b7,start:b9,x:b0,y:b3,platform:Linux,
+19000000192800000220000001000000,AplGamepadP2,a:b1,b:b2,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,lefttrigger:b5,righttrigger:b7,start:b9,x:b0,y:b3,platform:Linux,
+05000000491900000204000000000000,Legends GamePad,leftx:a0,lefty:a1,a:b0,b:b1,back:b10,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b2,leftshoulder:b6,lefttrigger:b8,rightshoulder:b7,righttrigger:b9,start:b11,x:b3,y:b4,leftstick:b13,rightstick:b14,rightx:a2,righty:a3,platform:Linux,
+
+050000005e040000fd02000003090000,Xbox One Controller,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b16,leftshoulder:b4,leftstick:b8,lefttrigger:a5,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b9,righttrigger:a4,rightx:a2,righty:a3,start:b7,x:b2,y:b3,platform:Linux,
+
+0300000009d200000116000011010000,Ultimarc Aimtrak,a:b0,b:b1,back:b2,start:b3,platform:Linux,
+
+0300000025050000aca4000004040000,Atgames QuadPlay,a:b0,b:b6,x:b1,y:b3,back:b13,guide:b12,start:b11,leftshoulder:b5,rightshoulder:b7,dpup:h0.1,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,platform:Linux,
