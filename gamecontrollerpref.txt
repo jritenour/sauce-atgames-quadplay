@@ -11,7 +11,7 @@
 # the first ports. Controllers not listed here will still be mapped. The 
 # order then depends on their corresponding device file names.
 
+Ultimarc Ultimarc
 Xbox Wireless Controller
 Atgames QuadPlay
 HID 0838:8918
-Ultimarc Ultimarc
