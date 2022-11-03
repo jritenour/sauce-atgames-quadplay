@@ -1,5 +1,3 @@
-# Place this in ./content/retrofe in the drive you have your OneSaUCE content installed to so the Quadplay takes precedence over any other plugged in input devices.
-
 # Specify game controller names here in preferred order.
 # If connected, these controllers will be mapped to port 1, port 2, etc.
 # Game controller names can be found in the logs, e.g., the following line
@@ -11,7 +9,8 @@
 # the first ports. Controllers not listed here will still be mapped. The 
 # order then depends on their corresponding device file names.
 
-Ultimarc Ultimarc
 Xbox Wireless Controller
+Ultimarc Ultimarc
 Atgames QuadPlay
 HID 0838:8918
+

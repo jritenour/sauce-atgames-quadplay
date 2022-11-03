@@ -1,4 +1,3 @@
-# Place this in ./content/retrofe in the drive you have your OneSaUCE content installed to.
 03000000380700001888000011010000,AtGames USB Control Panel,a:b1,b:b2,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b12,leftshoulder:b3,lefttrigger:b2,rightshoulder:b5,righttrigger:b7,start:b9,x:b0,y:b3,platform:Linux,
 19000000380800001988000011010000,ATG game console,a:b1,b:b3,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b12,leftshoulder:b14,lefttrigger:b13,rightshoulder:b7,righttrigger:b5,start:b9,x:b0,y:b4,platform:Linux,
 03000000380800001889000011010000,HID 0838:8918,a:b1,b:b2,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b12,leftshoulder:b5,lefttrigger:b7,rightshoulder:b13,righttrigger:b14,start:b9,x:b0,y:b3,platform:Linux,
@@ -12,4 +11,4 @@
 
 0300000009d200000116000011010000,Ultimarc Aimtrak,a:b0,b:b1,back:b2,start:b3,platform:Linux,
 
-0300000025050000aca4000004040000,Atgames QuadPlay,a:b6,b:b0,x:b3,y:b1,back:b13,guide:b12,start:b11,leftshoulder:b5,rightshoulder:b7,dpup:h0.1,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,platform:Linux,
+0300000025050000aca4000004040000,Atgames QuadPlay,a:b6,b:b0,x:b3,y:b1,back:b13,guide:b12,start:b11,leftshoulder:b5,rightshoulder:b7,dpup:h0.1,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,platform:Linux
